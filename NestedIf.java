@@ -7,7 +7,7 @@ public class NestedIf {
 		int weight=65;
 		if(age>19) 
 		{
-			if(weight>67) 
+			if(weight>64) 
 				System.out.println("your eligible to denote blood");
 				else {
 					System.out.println("your are must be more than 20");
