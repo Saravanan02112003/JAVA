@@ -1,6 +1,5 @@
 package classoct;
 import java.util.*;
-import java.util.Map.Entry;
 
 	public class TreeExample {
 		//TreeMap - is store key as a sorted Order
